@@ -1,0 +1,44 @@
+@font-face {
+    font-family: "Nanum Square Neo";
+    font-weight: 300;
+    font-style:normal; font-display: swap;
+    src:url('../fonts/NanumSquareNeo/woff2/NanumSquareNeoTTF-aLt.woff2'),
+        url('../fonts/NanumSquareNeo/woff/NanumSquareNeoTTF-aLt.woff'),
+        url('../fonts/NanumSquareNeo/eot/NanumSquareNeoTTF-aLt.eot')
+}
+
+@font-face {
+    font-family: "Nanum Square Neo";
+    font-weight: 400;
+    font-style:normal; font-display: swap;
+    src:url('../fonts/NanumSquareNeo/woff2/NanumSquareNeoTTF-bRg.woff2'),
+        url('../fonts/NanumSquareNeo/woff/NanumSquareNeoTTF-bRg.woff'),
+        url('../fonts/NanumSquareNeo/eot/NanumSquareNeoTTF-bRg.eot')
+}
+
+@font-face {
+    font-family: "Nanum Square Neo";
+    font-weight: 700;
+    font-style:normal; font-display: swap;
+    src:url('../fonts/NanumSquareNeo/woff2/NanumSquareNeoTTF-cBd.woff2'),
+        url('../fonts/NanumSquareNeo/woff/NanumSquareNeoTTF-cBd.woff'),
+        url('../fonts/NanumSquareNeo/eot/NanumSquareNeoTTF-cBd.eot')
+}
+
+@font-face {
+    font-family: "Nanum Square Neo";
+    font-weight: 800;
+    font-style:normal; font-display: swap;
+    src:url('../fonts/NanumSquareNeo/woff2/NanumSquareNeoTTF-dEb.woff2'),
+        url('../fonts/NanumSquareNeo/woff/NanumSquareNeoTTF-dEb.woff'),
+        url('../fonts/NanumSquareNeo/eot/NanumSquareNeoTTF-dEb.eot')
+}
+
+@font-face {
+    font-family: "Nanum Square Neo";
+    font-weight: 900;
+    font-style:normal; font-display: swap;
+    src:url('../fonts/NanumSquareNeo/woff2/NanumSquareNeoTTF-eHv.woff2'),
+        url('../fonts/NanumSquareNeo/woff/NanumSquareNeoTTF-eHv.woff'),
+        url('../fonts/NanumSquareNeo/eot/NanumSquareNeoTTF-eHv.eot')
+}
